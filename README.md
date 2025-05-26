@@ -1,14 +1,32 @@
 Currency Converter 
 
-🔹 Key Features:
-Real-time exchange rate integration using a free API.
-Responsive and modern design with Tailwind CSS.
-Clean and modular React components for maintainability.
 
-🔹 Tech Stack:
-React JS 18 for dynamic UI and state management.
-Tailwind CSS for sleek, responsive styling.
-Vite for fast development and build processes.
+## ✨ Features
+
+- 🔄 **Live Currency Conversion**  
+  Convert between major currencies in real time *(API integration ready)*.
+
+- ⚛️ **Component-Based Architecture**  
+  Clean and reusable React components.
+
+- 🌈 **Tailwind-Powered Design**  
+  Modern, sleek, and fully responsive interface.
+
+- ⚡ **Blazing Fast with Vite**  
+  Super-fast dev environment and optimized production builds.
+
+- 🖼️ **Finance-Themed Background Overlay**  
+  A polished look with transparent overlays for maximum readability.
+
+---
+
+## 🔹 Tech Stack
+
+- **React JS 18** – For dynamic UI and state management  
+- **Tailwind CSS** – For sleek, responsive styling  
+- **Vite** – For lightning-fast development and build processes
+
+---
 
 🔹 Setup: 
     npm i
